@@ -36,3 +36,7 @@ This repository showcases the projects and skills I developed while completing t
 This repository demonstrates my ability to apply statistical and programming knowledge to real-world financial datasets. It highlights my proficiency in handling data pipelines, performing robust financial analysis, and presenting results in a clear, visual format.
 
 By showcasing these skills and projects, I aim to demonstrate my readiness for roles in financial analytics, investment research, and data-driven decision-making.
+
+## Certificate
+
+[View Certificate (PDF)](Coursera_DM21S893JH0U.pdf)

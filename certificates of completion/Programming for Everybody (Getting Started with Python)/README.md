@@ -34,3 +34,7 @@ This repository showcases the foundational Python programming skills I gained th
 ## Portfolio Contributions
 
 By completing this course, I developed the foundational programming skills necessary for more advanced Python applications. The concepts and techniques learned here provide a strong base for further exploration into areas such as data analysis, web development, and software engineering. This repository demonstrates my ability to write Python programs that are efficient, clear, and capable of processing real-world data.
+
+## Certificate
+
+[View Certificate (PDF)](Coursera_DM21S893JH0U.pdf)

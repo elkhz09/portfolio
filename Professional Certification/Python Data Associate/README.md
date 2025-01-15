@@ -30,3 +30,7 @@ This repository showcases the skills and projects I completed as part of the Pyt
 ## Portfolio Contributions
 
 This certification reflects my ability to use Python for data analysis and visualization at a professional level. By earning this credential, I have demonstrated my readiness to work with real-world data, deliver actionable insights, and contribute effectively to data-driven projects. This repository contains projects and scripts that highlight my data analysis capabilities and my proficiency with Python’s data science ecosystem.
+
+## Certificate
+
+[View Certificate (PDF)](PDA0017721155393.pdf)

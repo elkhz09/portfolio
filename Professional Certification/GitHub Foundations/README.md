@@ -35,3 +35,6 @@ By earning the GitHub Foundations Certificate, I have demonstrated my ability to
 
 This certification solidifies my foundational version control skills and positions me as a proficient user of GitHub’s tools for modern software development.
 
+## Certificate
+
+[View Certificate (PDF)](GitHubFoundations_Cert.pdf)
