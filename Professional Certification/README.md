@@ -13,5 +13,6 @@ This folder showcases a curated collection of my professional certifications, wh
    - Gained advanced skills in pandas, Matplotlib, and seaborn to uncover insights from complex datasets.  
    - Strengthened analytical thinking and problem-solving abilities for data-driven decision-making.  
    - [View Certificate (PDF)](Python%20Data%20Associate/certificate.pdf)
+   - ![Badge](Python%20Data%20Associate/badge.png)
 
 
