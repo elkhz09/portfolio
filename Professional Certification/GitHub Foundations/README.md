@@ -37,4 +37,4 @@ This certification solidifies my foundational version control skills and positio
 
 ## Certificate
 
-[View Certificate (PDF)](GitHubFoundations_Cert.pdf)
+![Certificate](GitHubFoundations_Cert.pdf)
