@@ -37,4 +37,4 @@ By completing this course, I developed the foundational programming skills neces
 
 ## Certificate
 
-[View Certificate (PDF)](Coursera_DM21S893JH0U.pdf)
+[View Certificate (PDF)](certificate.pdf)

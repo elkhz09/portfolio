@@ -33,4 +33,6 @@ This certification reflects my ability to use Python for data analysis and visua
 
 ## Certificate
 
-[View Certificate (PDF)](PDA0017721155393.pdf)
+[View Certificate (PDF)](certificate.pdf)
+
+To verify the the certification via DataCamp, view the certificate [here](https://www.datacamp.com/certificate/PDA0017721155393).

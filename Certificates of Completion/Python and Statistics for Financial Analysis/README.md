@@ -39,4 +39,4 @@ By showcasing these skills and projects, I aim to demonstrate my readiness for r
 
 ## Certificate
 
-[View Certificate (PDF)](Coursera_DM21S893JH0U.pdf)
+[View Certificate (PDF)](certificate.pdf)

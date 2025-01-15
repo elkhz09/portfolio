@@ -37,4 +37,6 @@ This certification solidifies my foundational version control skills and positio
 
 ## Certificate
 
-[View Certificate (PDF)](GitHubFoundations_Cert.pdf)
+[View Certificate (PDF)](certificate.pdf)
+
+To verify the certification via credly, view the certificate [here](https://www.credly.com/badges/4a673477-581c-4553-99fc-03bdf52eba8e/linked_in_profile).
