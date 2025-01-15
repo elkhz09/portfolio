@@ -34,6 +34,12 @@ This folder features certificates from courses that laid the groundwork for my t
 - **Python and Statistics for Financial Analysis:**  
   An in-depth look at statistical methods for analyzing financial data, using Python to generate actionable insights.
 
+- **Finance Fundamentals Skill Track (DataCamp):**  
+  A focused program that strengthened my understanding of financial markets, instruments, and data-driven decision-making.
+
+- **Analyze Financial Data with Python (Codecademy):**  
+  Hands-on experience with Python-based financial data analysis, time-series processing, and data visualization techniques.
+
 **[View Certificates of Completion](certificates%20of%20completion/)**
 
 ---
