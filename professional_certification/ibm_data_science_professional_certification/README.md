@@ -37,8 +37,8 @@ The IBM Data Science Professional Certificate consists of the following courses:
 
 | #  | Course Title                                           | Status |
 |----|-------------------------------------------------------|--------|
-| 1  | [What is Data Science?](https://www.coursera.org/learn/what-is-datascience) |\u2713|
-| 2  | [Tools for Data Science](https://www.coursera.org/learn/open-source-tools-for-data-science) |In Progress|
+| 1  | [What is Data Science?](https://www.coursera.org/learn/what-is-datascience) |✔|
+| 2  | [Tools for Data Science](https://www.coursera.org/learn/open-source-tools-for-data-science) |✔|
 | 3  | [Data Science Methodology](https://www.coursera.org/learn/data-science-methodology) |In Progress|
 | 4  | [Python for Data Science, AI & Development](https://www.coursera.org/learn/python-for-applied-data-science-ai) |In Progress|
 | 5  | [Python Project for Data Science](https://www.coursera.org/learn/python-project-for-data-science) |In Progress|
